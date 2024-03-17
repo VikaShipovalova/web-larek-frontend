@@ -53,4 +53,4 @@ yarn build
 -подсчет итоговой стоимости заказа
 
 ## Архитектура
-![Архитктура проекта](https://github.com/VikaShipovalova/web-larek-frontend/raw/main/classmodel.png)
+![Архитктура проекта](https://github.com/VikaShipovalova/web-larek-frontend/raw/main/classModel.png)
