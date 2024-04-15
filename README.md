@@ -63,19 +63,19 @@ yarn build
 - инициирует событие с данными;
 - слушает все события;
 - сбрасывает все обработчики;
-- триггер, генерирующий событие при вызове
+- триггер, генерирующий событие при вызове.
 
 ## Компоненты модели данных
 ### Класс AppState
 Этот класс отвечает за работу приложения в целом. Содержит конструктор и методы:
-clearBasket, addToBasket, removeFromBasket, updateBasket - очищает корзину, добавляет и удаляет из нее товары, обновляет ее
-clearOrder - очищает информацию о заказе
-setCatalog - меняет список покупок
-setPreview - предпросмотр товара
-getTotal - считает сумму заказа
-setPaymentMethod - изменяет метод оплаты
-setDeliveryForm, setContactForm - проверяет заполненность форм заказа
-validateDelivery, validateContact - проверяет валидацию форм заказа
+- clearBasket, addToBasket, removeFromBasket, updateBasket - очищает корзину, добавляет и удаляет из нее товары, обновляет ее;
+- clearOrder - очищает информацию о заказе;
+- setCatalog - меняет список покупок;
+- setPreview - предпросмотр товара;
+- getTotal - считает сумму заказа;
+- setPaymentMethod - изменяет метод оплаты;
+- setDeliveryForm, setContactForm - проверяет заполненность форм заказа;
+- validateDelivery, validateContact - проверяет валидацию форм заказа;
 Наследуется от Model<IAppState>. Может использоваться для отображения.
 
 ### Класс Form
