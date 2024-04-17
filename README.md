@@ -207,6 +207,6 @@ export interface IActions {
 
 
 ## Архитектура
-![Архитектура проекта](./DataModel.png)
 
-![Архитектура проекта](./DataModel.jpg)
+![Архитектура проекта](./diagram.jpg)
+
