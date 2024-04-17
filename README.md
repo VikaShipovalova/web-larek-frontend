@@ -204,9 +204,9 @@ export interface IActions {
 	onClick: (event: MouseEvent) => void;
 }
 
-
+```
 
 ## Архитектура
 
-![Архитктура проекта](https://github.com/VikaShipovalova/web-larek-frontend/raw/main/newmodel.drawio.png) 
+![Архитектура проекта](https://github.com/VikaShipovalova/web-larek-frontend/raw/main/newmodel.drawio.png) 
 
