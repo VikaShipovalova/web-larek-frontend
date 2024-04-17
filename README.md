@@ -207,6 +207,6 @@ export interface IActions {
 
 
 ## Архитектура
-![Архитктура проекта](https://github.com/VikaShipovalova/web-larek-frontend/raw/main/DataModelNew.png)
+![Архитектура проекта](https://github.com/VikaShipovalova/web-larek-frontend/raw/main/DataModelNew.png)
 
 ![Архитектура](https://github.com/VikaShipovalova/web-larek-frontend/raw/main/DataModelNew)
