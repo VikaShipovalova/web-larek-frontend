@@ -208,5 +208,5 @@ export interface IActions {
 
 ## Архитектура
 
-![Архитектура проекта](./diagram.jpg)
+![Архитктура проекта](https://github.com/VikaShipovalova/web-larek-frontend/raw/main/newmodel.drawio.png) 
 
